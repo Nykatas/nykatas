@@ -9,6 +9,6 @@
 <h3>Hi ❤️, i'm Scott!</h3>
 
 - 👋 I am a 21 year old developer from germany.
-- 👀 My main focus atm is C and Lua.
+- 👀 My main focus atm is C, Lua and VueJS.
 - 🌱 Currently Learning Vue and React.
 - 📫 How to reach me: On Discord -> nykatas
